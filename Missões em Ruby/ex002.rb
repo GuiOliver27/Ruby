@@ -12,7 +12,7 @@ puts "Adição = #{result}"
 result = number1 - number2
 puts "Subtração = #{result}"
 
-result = number1 * number1
+result = number1 * number2
 puts "Multiplicação = #{result}"
 
 result = number1 / number2
