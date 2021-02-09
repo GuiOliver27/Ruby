@@ -2,7 +2,7 @@ day = 'Feriado'
  
 if day == 'Domingo' 
   lunch = 'especial'
-elsif day == 'Feriado'
+ else if day == 'Feriado'
   lunch = 'depois'
 else
   lunch = 'normal'
